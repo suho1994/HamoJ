@@ -4,6 +4,6 @@ public class World {
     public static void main(String[] args) {
 
         System.out.println("Hamo is World");
-        System.out.println("뜨ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ악");
+        System.out.println("뜨ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ악");
     }
 }
